@@ -22,3 +22,11 @@ I try to describe Deep learning easy and clearly from various resources. <br>
 - Kaggle exercise
 
 # Chapter 8:
+
+
+# Chapter 9:
+- RNN
+- LSTIM
+
+# Chapter 10:
+- Netural Language Processing
