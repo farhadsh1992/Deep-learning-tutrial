@@ -1,12 +1,14 @@
 # Deep-learning-tutrial
 ## Contents:
 
-### [Keras](https://github.com/farhadsh1992/Deep-learning-tutrial/tree/master/Keras)
-### [Tensorflow]()
+### - [Keras](https://github.com/farhadsh1992/Deep-learning-tutrial/tree/master/Keras)
+### - [Tensorflow]()
 
 
 <hr>
+
 # Keras
+
 All lessons in this folder are in Keras. (tensorflow-1.keras)
 
 Not-complite, You should open in your computer for seeing complitly 
