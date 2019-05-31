@@ -23,7 +23,7 @@ Not-complite, You should open in your computer for seeing complitly
 ### Essential
 3. [Chapter 002-0](): Binary_Classification by Iris dataset,Introduction to Regression,EarlyStopping and ModelCheckpoint
 4. [Chapter 002-1](): learning about unlinear_regression and optimizers
-5. [Chapter 002-2](): **PLus Theory**
+5. [Chapter 002-2](): **+PLus Theory**
 6. [Chapter 002-3](): Tensorboard as backcall
 
 7. [Chapter 003-0](): Build dummy with moons_sample dataset
@@ -66,11 +66,11 @@ Not-complite, You should open in your computer for seeing complitly
 34. [Chapter 011](): -----------------##
 34. [Chapter 012](): Highway Networks, Residual Network, Dense Networks 
 
-### +Theory (without any code):
-- [Chapter 002-2](): **PLUS_Theory**
+### +Theory:
+- [Chapter 002-2](): **PLus_Theory**
 - [Chapter 003-2](): **PLus Theory**
 - [Chapter 003.3](): **Plus Theory**, Book Summary
-- [Chapter 010.6](): **+PLus Theory**
+- [Chapter 010.6](): **PLus Theory**
 ### Visualization:
 - [Chapter 002-3](): Tensorboard as backcall
 
