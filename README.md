@@ -1,32 +1,19 @@
 # Deep-learning-tutrial
 
----------------------------------------------------------------------------------------------------------------------------
-# Chapter 1:
-_ for beginner
+<hr>
+All lessons in this folder are in Keras. (tensorflow-1.keras)
 
-# Chapter 2:
-- for beginner
 
-# Chapter 3: 
-- bulid dummpy model with moons data,
-- know more about theory and layers
-- Plus Theory 
-# Chapter 4:
-- image processing, Convolutional Nerual network
-# Chapter 5:
+## Contents:
 
-# Chapter 6:
-- Transfer learning
+### Introduction
+1. [Chapter 001-0](): Introduction to Neural netwrok.
+2. [Chapter 001-1](): Introduction to preprocessing like cross_validation,train_test,save_and_load_model.
 
-# Chapter 7:
-- Kaggle exercise
+### Essential
+3. [Chapter 002-0](): Binary_Classification by Iris dataset,Introduction to Regression,EarlyStopping and ModelCheckpoint
+4. [Chapter 002-1](): learning about unlinear_regression and optimizers
+5. [Chapter 002-2](): <font color="reed">Plus_Theory</font>
+6. [Chapter 002](): 
 
-# Chapter 8:
-- linear regression and unlinear regression
-
-# Chapter 9:
-- RNN
-- LSTIM
-
-# Chapter 10:
-- Netural Language Processing
+### Intermediate
