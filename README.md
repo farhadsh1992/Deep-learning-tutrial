@@ -19,7 +19,7 @@ All lessons in this folder are in Keras. (tensorflow-1.keras)
 7. [Chapter 003-0](): Build dummy with moons_sample dataset
 8. [Chapter 003-1](): Introduction to Dense layers, activation,Dropout
 9. [Chapter 003-2](): **+PLus Theory**
-10.[Chapter 003.3](): **+Plus Theory**, Book Summary
+10. [Chapter 003.3](): **+Plus Theory**, Book Summary
 
 ### Intermediate
 11. [Chapter 004-0](): first convolutional neural network (computer vision).
