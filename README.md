@@ -18,7 +18,7 @@ Not-complite, You should open in your computer for seeing complitly
 
 ### Introduction
 1. [Chapter 001-0](): Introduction to Neural netwrok.
-2. [Chapter 001-1](): Introduction to preprocessing like cross_validation,train_test,save_and_load_model.
+2. [Chapter 001-1](https://bitbucket.org/farhadsh1992/deep_learning_tutrial/src/master/keras/Chapter%20001.1-%20keras%20(cross_validation%2Ctrain_test%2Csave_and_load_model).ipynb): Introduction to preprocessing like cross_validation,train_test,save_and_load_model.
 
 ### Essential
 3. [Chapter 002-0](): Binary_Classification by Iris dataset,Introduction to Regression,EarlyStopping and ModelCheckpoint
