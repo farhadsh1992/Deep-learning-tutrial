@@ -10,9 +10,12 @@
 
 # Keras
 
-All lessons in this folder are in Keras. (tensorflow-1.keras)
+All lessons in this folder are in Keras. (tensorflow-2.keras). 
 
-Not-complite, You should open in your computer for seeing complitly 
+Plus Theory helps you learn mathamtics of deep learning.  
+
+Not-complite, You should open in your jupyter for seeing complitly the lessions.
+
 
 ## Contents:
 
@@ -55,16 +58,19 @@ Not-complite, You should open in your computer for seeing complitly
 25. [Chapter 009-1](): keras(LSTM) (Neutral Language processing)
 
 26. [Chapter 010](): Chat Bots (Neutral Language processing)##
-27. [Chapter 010-1](): -------------------
+27. [Chapter 010-1](): [Not complete]
 
 28. [Chapter 010-2](): Gensim pakage (Neutral Language processing)
 29. [Chapter 010-3](): SKlearn,Machine_learning,gensim,keras.perprocessing,PCA,T_SNE (Neutral Language processing)
-30. [Chapter 010-4](): ----------##
-31. [Chapter 010-5](): ----------##
+30. [Chapter 010-4](): [Not complete]
+31. [Chapter 010-5](): [Not complete]
 32. [Chapter 010.6](): **+PLus Theory**
 
-34. [Chapter 011](): -----------------##
+33. [Chapter 011](): [Not complete]
 34. [Chapter 012](): Highway Networks, Residual Network, Dense Networks 
+
+### Tesnorflow on Smart Phone
+35. [Chapter 013](): depthwise convolutional layer instead of convolutional layer.
 
 ### +Theory:
 - [Chapter 002-2](): **PLus_Theory**
