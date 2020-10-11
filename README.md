@@ -69,7 +69,7 @@ Not-complite, You should open in your jupyter for seeing complitly the lessions.
 33. [Chapter 011](): [Not complete]
 34. [Chapter 012](): Highway Networks, Residual Network, Dense Networks 
 
-### Tesnorflow on Smart Phone
+### Tensorflow on Smart Phone (TFLite)
 35. [Chapter 013](): depthwise convolutional layer instead of convolutional layer.
 
 ### +Theory:
